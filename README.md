@@ -61,13 +61,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 ![decision tree classifier model](sam.png)
+## data.head():
 ![Screenshot 2024-04-02 085821](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/00fc9755-3f08-4365-a9f2-2edd3381b889)
+## data.info():
 ![Screenshot 2024-04-02 085910](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/a5585fad-b840-4f27-bae8-ca5c192dfc83)
-![Screenshot 2024-04-02 090009](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/83fee744-26d9-462c-9109-ebabe6ec945d)
+## data.isnull().sum():
+![Screenshot 2024-04-02 090009](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/5ea3b5cf-ba87-454f-b656-91fb5f121cca)
+## data["left"].value_counts():
 ![Screenshot 2024-04-02 090046](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/9eaba7a9-70fc-4713-9bec-7d4206a17b43)
+## data.head():
 ![Screenshot 2024-04-02 090135](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/da565e26-5882-4499-ac54-df50484997a4)
+## x.head()
 ![Screenshot 2024-04-02 090252](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/fd5387de-7ec2-479f-a452-8e5f8eea7b23)
+## accuracy:
 ![Screenshot 2024-04-02 090326](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/5be1355f-be1f-4140-8d98-81ee8dab6ab7)
+## dt.predict([[0.5,0.8,9,260,6,0,1,2]]):
 ![Screenshot 2024-04-02 090345](https://github.com/vishal23000591/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147139719/2d10e614-7b82-4b2b-80d7-c3321731fbad)
 
 
